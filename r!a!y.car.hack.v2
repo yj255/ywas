@@ -59,7 +59,7 @@ if not CheckUsername() then
     print("تواصل مع صاحب السكربت ديسكورد 66_ra")
     
     -- يمكنك أيضاً طرده مباشرة من اللعبة باستخدام هذا السطر:
-    LocalPlayer:Kick("أنت غير مسجل في قائمة المسموح لهم باستخدام هذا السكربت.")
+    LocalPlayer:Kick("you got banned for useing alt account.")
 end
 -- ================= CONFIGURATION =================
 local espInventoryEnabled = true 
