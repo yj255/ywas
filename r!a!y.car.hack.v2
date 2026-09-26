@@ -59,7 +59,7 @@ if not CheckUsername() then
     print("تواصل مع صاحب السكربت ديسكورد 66_ra")
     
     -- يمكنك أيضاً طرده مباشرة من اللعبة باستخدام هذا السطر:
-    LocalPlayer:Kick(" contactstaff in the Discord server.")
+    LocalPlayer:Kick("You were banned for cheating. If you believe this was a mistake, contact staff in the Discord server.")
 end
 -- ================= CONFIGURATION =================
 local espInventoryEnabled = true 
